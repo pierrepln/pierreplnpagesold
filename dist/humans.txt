@@ -1,0 +1,14 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+  PIERRE PLANTIE
+
+# THANKS
+
+  TOO MUCH PEOPLE
+
+# TECHNOLOGY COLOPHON
+
+  HTML5, CSS3
