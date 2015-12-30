@@ -3,11 +3,11 @@
 
 # TEAM
 
-  PIERRE PLANTIE
+  <name> -- <role> -- <twitter>
 
 # THANKS
 
-  TOO MUCH PEOPLE
+  <name>
 
 # TECHNOLOGY COLOPHON
 
