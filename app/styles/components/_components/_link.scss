@@ -13,11 +13,11 @@ a:hover {
 }
 
 .cta--primary {
-  @include style-cta($colorBlue, $icon-chevron-right);
+  @include style-cta(#551a8b, $icon-chevron-right);
 }
 
 .cta--secondary {
-  @include style-cta($colorBlue);
+  @include style-cta(#551a8b);
 }
 
 .mylink {
