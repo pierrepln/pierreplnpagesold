@@ -1,0 +1,146 @@
+html,
+body {
+  overflow-y: scroll;
+}
+
+.App {
+  font-family: "Poppins", sans-serif;
+}
+
+.blue-square {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background-color: rgb(0, 80, 255);
+}
+
+.name {
+  display: inline-block;
+  margin-left: 5px;
+  font-size: 22px;
+}
+
+.software {
+  font-family: "Nunito", sans-serif;
+  line-height: 1.2em;
+  font-weight: 300;
+  letter-spacing: 0.82px;
+}
+
+.layout-container {
+  margin: 165px 0 0;
+  /* desktop */
+  background: linear-gradient(
+    to right,
+    rgb(230, 218, 207) 0%,
+    rgb(230, 218, 207) 40%,
+    rgb(251, 255, 253) 40%,
+    rgb(251, 255, 253) 100%
+  );
+  /* mobile */
+  background: rgb(230, 218, 207);
+}
+
+/* .bg-beige {
+  height: 400px;
+  background-color: rgb(230, 218, 207);
+}
+
+.bg-white {
+  background-color: rgb(251, 255, 253);
+} */
+
+.content-container {
+  margin-top: -165px;
+}
+
+.paper-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 280px;
+  margin: 0px 0px 26px 0;
+  background-color: rgb(244, 236, 230) !important;
+  text-align: center;
+}
+.paper-right {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+  width: 280px;
+  margin: 0px 0px 26px 0;
+  background-color: transparent !important;
+  text-align: start;
+  box-shadow: none !important;
+}
+
+h1 {
+  font-size: 21px;
+  color: black;
+}
+
+hr {
+  width: 68px;
+  height: 2px;
+  margin: 0px 0px 26px 0;
+  background: rgb(0, 80, 255);
+  border: none;
+}
+
+.buttons-container {
+  margin: 0px 0px 33px 0;
+  font-family: "Nunito", sans-serif !important;
+}
+
+.MuiButton-contained {
+  background: rgb(0, 80, 255) !important;
+  color: white !important;
+  border-radius: 20px !important;
+  width: 120px;
+  height: 33px;
+  margin: 0 5px !important;
+  font-family: "Nunito" !important;
+  font-weight: 700 !important;
+}
+
+.MuiButton-outlined {
+  border-radius: 20px !important;
+  width: 120px;
+  height: 33px;
+  margin: 0 5px !important;
+  font-family: "Nunito" !important;
+  font-weight: 700 !important;
+}
+
+.socials {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+  margin: 0px 0px 10px 0;
+  box-shadow: -11.31px 11.31px 25px 0px rgba(138, 131, 124, 0.23);
+  background-color: white;
+}
+
+.text-title {
+  font-size: 40px;
+  margin: 10px 0;
+}
+.text-heading {
+  font-size: 19px;
+  margin: 10px 0;
+}
+.text-block {
+  line-height: 1.5em;
+  font-size: 16px;
+  margin: 12px 0;
+  font-family: 'Nunito', sans-serif;
+}
+
+.MuiPaper-elevation2 {
+  box-shadow: 0.31px 11.31px 17px 0px rgba(138, 131, 124, 0.23) !important;
+}
+
+footer {
+  font-family: 'Nunito', sans-serif;
+}
