@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pierrepln.github.io/static/css/main.3b545314.chunk.css",
+    "main.js": "/pierrepln.github.io/static/js/main.7294e461.chunk.js",
+    "main.js.map": "/pierrepln.github.io/static/js/main.7294e461.chunk.js.map",
+    "runtime-main.js": "/pierrepln.github.io/static/js/runtime-main.f4e50e8b.js",
+    "runtime-main.js.map": "/pierrepln.github.io/static/js/runtime-main.f4e50e8b.js.map",
+    "static/js/2.b054bccb.chunk.js": "/pierrepln.github.io/static/js/2.b054bccb.chunk.js",
+    "static/js/2.b054bccb.chunk.js.map": "/pierrepln.github.io/static/js/2.b054bccb.chunk.js.map",
+    "static/js/3.d93b5962.chunk.js": "/pierrepln.github.io/static/js/3.d93b5962.chunk.js",
+    "static/js/3.d93b5962.chunk.js.map": "/pierrepln.github.io/static/js/3.d93b5962.chunk.js.map",
+    "index.html": "/pierrepln.github.io/index.html",
+    "static/css/main.3b545314.chunk.css.map": "/pierrepln.github.io/static/css/main.3b545314.chunk.css.map",
+    "static/js/2.b054bccb.chunk.js.LICENSE.txt": "/pierrepln.github.io/static/js/2.b054bccb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4e50e8b.js",
+    "static/js/2.b054bccb.chunk.js",
+    "static/css/main.3b545314.chunk.css",
+    "static/js/main.7294e461.chunk.js"
+  ]
+}
